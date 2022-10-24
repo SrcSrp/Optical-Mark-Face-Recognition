@@ -2,6 +2,7 @@ opencv-python
 numpy
 scipy
 face-recognition
+face_recognition_models
 requests
 streamlit-lottie
 streamlit-folium
