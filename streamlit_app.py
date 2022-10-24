@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-from streamlit_lottie import st_lottie
+import streamlit_lottie as st_lottie
 from streamlit_folium import st_folium
 from streamlit_player import st_player,_SUPPORTED_EVENTS
 from streamlit_option_menu import option_menu
