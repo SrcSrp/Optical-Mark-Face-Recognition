@@ -8,6 +8,3 @@ streamlit-lottie
 streamlit-folium
 streamlit-option-menu
 folium
-datetime
-warnings
-
