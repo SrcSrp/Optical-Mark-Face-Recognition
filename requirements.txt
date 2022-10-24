@@ -1,0 +1,12 @@
+opencv-python
+numpy
+scipy
+face-recognition
+requests
+face_recognition_models
+streamlit-lottie
+streamlit-folium
+streamlit-option-menu
+folium
+datetime
+warnings
