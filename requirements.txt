@@ -5,5 +5,3 @@ cv2-tools
 streamlit-lottie
 streamlit
 streamlit-folium
-face-recognition==1.3.0
-
