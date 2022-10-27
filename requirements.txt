@@ -4,3 +4,4 @@ script-runner
 cv2-tools
 streamlit-lottie
 streamlit
+streamlit-folium
