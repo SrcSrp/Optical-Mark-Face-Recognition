@@ -6,4 +6,4 @@ streamlit-lottie
 streamlit
 streamlit-folium
 face-recognition
-dlib==19.24.0
+
