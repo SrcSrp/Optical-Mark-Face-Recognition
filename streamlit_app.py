@@ -120,7 +120,7 @@ if page == "Yüz Tanıma":
 
             if button == True:
                 with st.spinner("Yüz Tanıma Uygulaması Başlatılıyor, Lütfen Bekleyiniz..."):
-
+                    from YüzTanımaWebcam import *
        
         with right_column:
             st_lottie(lottie_coding, height=400, key="coding")
