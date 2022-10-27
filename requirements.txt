@@ -2,3 +2,4 @@ opencv-python
 numpy
 script-runner
 cv2-tools
+streamlit-lottie
