@@ -6,4 +6,4 @@ streamlit-lottie
 streamlit
 streamlit-folium
 face-recognition==1.3.0
-https://github.com/SrcSrp/Optical-Mark-Face-Recognition/blob/main/Optik.py
+Optik.py
